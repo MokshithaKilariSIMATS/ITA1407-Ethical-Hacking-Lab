@@ -1,0 +1,4 @@
+echo "Hello, this is a sample file." > sample.txt
+less sample.txt
+more sample.txt
+vi sample.txt

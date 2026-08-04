@@ -1,4 +1,3 @@
-uptime
-date
-mv sample.txt myfolder/
-ls myfolder
+touch sample.txt
+pwd
+wget https://example.com

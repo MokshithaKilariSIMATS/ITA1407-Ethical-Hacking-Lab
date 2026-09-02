@@ -1,4 +1,7 @@
+vi exp5.txt
 uptime
 date
-mv sample.txt myfolder/
-ls myfolder
+mv.exp5.txt lab.txt
+mkdir Test
+mkdir lab.txt Test/
+ls Test

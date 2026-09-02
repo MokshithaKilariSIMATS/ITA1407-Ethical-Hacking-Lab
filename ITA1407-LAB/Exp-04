@@ -1,6 +1,4 @@
-ls
-mkdir MyFolder
-echo "Welcome to Kali Linux.
-This is a sample text file." > file1.txt
-cat file1.txt
+vi exp4.txt
+cat exp4.txt
+mkdir scan1
 ls

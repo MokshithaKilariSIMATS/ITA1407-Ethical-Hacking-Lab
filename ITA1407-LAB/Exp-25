@@ -1,0 +1,21 @@
+i) Read a number and find its square
+#!/bin/bash
+echo "Enter a number:"
+read n
+square=$((n * n))
+echo "Square = $square"
+
+ii) Find the biggest of three numbers
+#!/bin/bash
+echo "Enter three numbers:"
+read a b c
+
+if [ $a -ge $b ] && [ $a -ge $c ]
+then
+    echo "Biggest = $a"
+elif [ $b -ge $a ] && [ $b -ge $c ]
+then
+    echo "Biggest = $b"
+else
+    echo "Biggest = $c"
+fi

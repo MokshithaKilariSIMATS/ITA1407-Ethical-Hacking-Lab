@@ -1,6 +1,3 @@
-touch testfile.txt
 ls
-rm testfile.txt
+rm sample.txt
 ls
-users
-tree

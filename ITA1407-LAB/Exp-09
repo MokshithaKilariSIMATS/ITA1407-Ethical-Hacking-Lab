@@ -1,2 +1,2 @@
-nmap -T5 scanme.nmap.org
-nmap -T3 scanme.nmap.org
+nmap -T2 192.168.1.1
+nmap -T3 192.168.1.1

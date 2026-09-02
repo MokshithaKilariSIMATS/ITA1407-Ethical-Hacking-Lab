@@ -1,3 +1,6 @@
-cd /root
-cp sample.txt sample_copy.txt
+mkdir testfolder
+cd testfolder
+pwd
+cd ..
+cp sample5.txt copy.txt
 ls

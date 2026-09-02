@@ -1,0 +1,4 @@
+tracert www.saveetha.com
+ping 172.18.64.1
+ipconfig
+netstat

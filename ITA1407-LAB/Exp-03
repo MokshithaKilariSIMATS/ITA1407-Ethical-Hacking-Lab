@@ -1,4 +1,3 @@
-echo "Apple" > sample.txt
-tree
-head sample.txt
-tail sample.txt
+tree exp2.txt
+head exp2.txt
+tail exp2.txt

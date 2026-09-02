@@ -1,0 +1,3 @@
+nikto -H
+nikto -h http://192.168.1.101 -Tuning x
+nikto -h http://192.168.1.101 -Cgidirs all
